@@ -79,6 +79,8 @@ This is a real-time multiplayer ping pong game with dynamic obstacles, developed
    - Limited support for player disconnection or network issues.
    - Players joining mid-game may experience synchronization delays.
    <br>
-3. **This is implemented on a single system only.**
+
+## **Assumptions**
+**This is implemented on a single system only.**
    - This will take more changes to make it into a server setup for multiple players competing against each other. Currently this will work only on a single system.
 
