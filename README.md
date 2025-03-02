@@ -12,7 +12,7 @@ This is a real-time multiplayer ping pong game with dynamic obstacles, developed
 3. A package manager (npm or yarn)
 
 ### Backend Setup
-1. Clone this repository and navigate into root gigaml/ folder. Backend is present in the root directory itself. Frontend is in frontend/ping-pong-game folder.
+1. Clone this repository and navigate into root folder. Backend is present in the root directory itself. Frontend is in frontend/ping-pong-game folder.
 2. Create and activate the virtual environment-
    ```bash
    python -m venv venv
